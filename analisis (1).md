@@ -1,4 +1,4 @@
-# Fase 4 — Análisis y documentación
+Análisis y documentación
 
 ## 1. Total de pacientes
 
