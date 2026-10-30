@@ -1,5 +1,4 @@
 # Fase 4 — Análisis y documentación
-
 ## 1. Total de pacientes
 
 La base de datos contiene **20 pacientes**. Este valor corresponde a los 20 registros ficticios incluidos en el caso clínico.
