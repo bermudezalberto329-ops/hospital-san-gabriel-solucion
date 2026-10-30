@@ -1,0 +1,12 @@
+ANÁLISIS DE LA BASE DE DATOS — HOSPITAL SAN GABRIEL;Columna1;Columna2;Columna3;;;
+Indicador;Resultado;Fórmula / criterio;Interpretación;;Sexo;Cantidad
+Total de pacientes;20;COUNTA de códigos;Se registraron 20 pacientes ficticios.;;F;10
+Edad promedio;43;AVERAGE de edad;Promedio de edad de los pacientes.;;M;10
+Temperatura promedio;37,145;AVERAGE de temperatura;Promedio de temperatura registrada.;;;
+Cantidad de pacientes F;10;COUNTIF por sexo;Pacientes de sexo femenino.;;;
+Cantidad de pacientes M;10;COUNTIF por sexo;Pacientes de sexo masculino.;;Estado;Cantidad
+Pendiente;4;COUNTIF por estado;Registros con atención pendiente.;;Pendiente;4
+En atención;7;COUNTIF por estado;Registros actualmente en atención.;;En atención;7
+Finalizada;9;COUNTIF por estado;Atenciones finalizadas.;;Finalizada;9
+Saturación mínima registrada;91;"MIN; ignora celda vacía";La saturación mínima registrada corresponde a P009.;;;
+Registros incompletos;1;COUNTBLANK en saturación;Hay un registro incompleto porque P016 no tiene saturación registrada.;;;
